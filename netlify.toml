@@ -1,4 +1,4 @@
 [[redirects]]
 from ="/*"  
-to ="/index.js"
+to ="/views/partials/index.ejs"
 status=200
